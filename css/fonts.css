@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'BlenderBook';
+  src: url("../fonts/Blender/BlenderPro-Book.woff") format("woff"), url("../fonts/Blender/BlenderPro-Book.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: wrap;
+}
+
+@font-face {
+  font-family: 'BlenderBold';
+  src: url("../fonts/Blender/BlenderPro-Bold.woff") format("woff"), url("../fonts/Blender/BlenderPro-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: wrap;
+}
+/*# sourceMappingURL=fonts.css.map */
